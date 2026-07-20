@@ -311,6 +311,6 @@ Through this project, I gained practical experience in:
 
 AI Engineer | Machine Learning | Data Science
 
-GitHub: *Add your GitHub Profile*
+GitHub:https://github.com/karnulusuresh
 
-LinkedIn: *Add your LinkedIn Profile*
+LinkedIn: https://www.linkedin.com/in/karnulu-suresh-117139316/
